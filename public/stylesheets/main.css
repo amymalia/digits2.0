@@ -1,0 +1,12 @@
+body {
+}
+
+.banner {
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  height: 250px;
+}
+
+.contacts {
+  padding: 30px;
+}
